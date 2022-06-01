@@ -54,6 +54,14 @@ Puis
 terraform version
 ```
 
+```
+Terraform v1.2.0
+on windows_amd64
+
+Your version of Terraform is out of date! The latest version
+is 1.2.1. You can update by downloading from https://www.terraform.io/downloads.html
+```
+
 ## Illustration schématique de la solution
 
 ![Image Solution](/images/SchemaProjet1.PNG "Image solution proposée")
