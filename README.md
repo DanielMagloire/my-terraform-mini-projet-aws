@@ -221,7 +221,7 @@ Dans ce dossier, nous avons trois fichiers nommés:
 
 # ELEMENT ADDITIONNEL A MON TRAVAIL
 
-## Remote Management
+## Remote Management (Bucket S3)
 
 Je souhaite partager mon travail avec d'autres collaborateur voire d'autres équipe.
 
