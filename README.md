@@ -319,6 +319,9 @@ Il est déconseillé de stocker le *.tfstate* sur un *git*.
 # TEST APPLICATION DEPLOYEE
 
 Nous copions l'ip publique de notre fichier **ip_ec2.txt** puis collons sur l'url pour vérifier que notre application tourne avec succes.
+
+![Img txt file](/images/fichier_ipPublic.PNG "txt file create ok")
+
 ![Img test app](/images/testok.PNG "test app")
 
 # SUPPRIMER LES RESOURCES
